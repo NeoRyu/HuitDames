@@ -1,0 +1,5 @@
+__________3 REINES__________
+Damier de 3x3 (pour 3 Reines)
+> Résolution complète en 9276 nanosecondes (0 ms)
+> Il existe 0 solutions possibles :
+____________________________

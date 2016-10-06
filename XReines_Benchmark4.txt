@@ -1,0 +1,7 @@
+__________4 REINES__________
+Damier de 4x4 (pour 4 Reines)
+> Résolution complète en 152735 nanosecondes (0 ms)
+> Il existe 2 solutions possibles :
+B1D2A3C4
+C1A2D3B4
+____________________________

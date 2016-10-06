@@ -1,0 +1,23 @@
+__________14 REINES__________
+Damier de 14x14 (pour 14 Reines)
+> Résolution complète en 6036564429 nanosecondes (6036 ms)
+> Il existe 365596 solutions possibles !
+
+__________15 REINES__________
+Damier de 15x15 (pour 15 Reines)
+> Résolution complète en 39139944589 nanosecondes (39139 ms)
+> Il existe 2279184 solutions possibles !
+
+__________16 REINES__________
+Damier de 16x16 (pour 16 Reines)
+> Résolution complète en 283240530391nanosecondes (283240 ms)
+> Il existe 14772512 solutions possibles !
+
+__________17 REINES__________
+Résolution complète en 1798214655824 nanosecondes (1798214 ms)
+> Pour un damier d'une taille de 17 x 17, 
+  il existe 95815104 solutions possibles de  
+  positionner correctement les 17 Reines !
+  Possibilités explorées : 847802136 (Recherche en profondeur)
+  Arrangements possibles : -8933998662973325312 (Algorithme recursif)
+  Placements possibles : 6.84326450885775E41 (Recherche exhaustive)

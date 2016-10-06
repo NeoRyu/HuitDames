@@ -1,0 +1,9 @@
+__________6 REINES__________
+Damier de 6x6 (pour 6 Reines)
+> Résolution complète en 2095306 nanosecondes (2 ms)
+> Il existe 4 solutions possibles :
+B1D2F3A4C5E6
+C1F2B3E4A5D6
+D1A2E3B4F5C6
+E1C2A3F4D5B6
+____________________________

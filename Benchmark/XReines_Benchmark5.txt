@@ -1,0 +1,15 @@
+__________5 REINES__________
+Damier de 5x5 (pour 5 Reines)
+> Résolution complète en 3422302 nanosecondes (3 ms)
+> Il existe 10 solutions possibles :
+A1C2E3B4D5
+A1D2B3E4C5
+B1D2A3C4E5
+B1E2C3A4D5
+C1A2D3B4E5
+C1E2B3D4A5
+D1A2C3E4B5
+D1B2E3C4A5
+E1B2D3A4C5
+E1C2A3D4B5
+____________________________

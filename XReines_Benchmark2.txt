@@ -1,0 +1,5 @@
+__________2 REINES__________
+Damier de 2x2 (pour 2 Reines)
+> Résolution complète en 7421 nanosecondes (0 ms)
+> Il existe 0 solutions possibles :
+____________________________

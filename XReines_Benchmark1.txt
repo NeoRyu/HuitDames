@@ -1,0 +1,6 @@
+__________1 REINES__________
+Damier de 1x1 (pour 1 Reines)
+> Résolution complète en 194782 nanosecondes (0 ms)
+> Il existe 1 solutions possibles :
+A1
+____________________________
