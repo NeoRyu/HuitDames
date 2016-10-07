@@ -7,7 +7,6 @@ public class Materia {
 		return exit_XReines;	
 	}
 	public void setexit_XReines(boolean restart)	{
-		int i = 1;
 		Materia.exit_XReines = restart;	
 	}
 	
